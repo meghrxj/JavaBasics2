@@ -17,7 +17,6 @@ int d;
 long e;
 float f;
 double g = 500.1;
-//
 int ex = (int) g;
 
 //pog it bro you wont get it yet ;/
